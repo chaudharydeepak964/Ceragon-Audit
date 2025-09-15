@@ -56,36 +56,36 @@ print("1st Day Reading Start")
 
 ####working start ########
 
-#asm= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ASM_I_Full_Link_Report_'+da+'.csv',skiprows=5)
-#bih = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/BIH_I_Full_Link_Report_'+da+'.csv',skiprows=5)
-rob = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ROB_Full_Link_Report_'+da+'.csv',skiprows=5,encoding= 'unicode_escape')
-kar= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/KAR_Full_Link_Report_'+da+'.csv',skiprows=5)
-#odi = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ODI_Full_Link_Report_'+do+'.csv',skiprows=5)
-upe = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/UPE_Full_Link_Report_'+da+'.csv',skiprows=5,encoding= 'unicode_escape')
+#asm= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ASM_I_Report_'+da+'.csv',skiprows=5)
+#bih = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/BIH_I_Report_'+da+'.csv',skiprows=5)
+rob = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ROB_Report_'+da+'.csv',skiprows=5,encoding= 'unicode_escape')
+kar= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/KAR_Report_'+da+'.csv',skiprows=5)
+#odi = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ODI_Report_'+do+'.csv',skiprows=5)
+upe = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/UPE_Report_'+da+'.csv',skiprows=5,encoding= 'unicode_escape')
 
 
 
 print("2nd Day Reading Start")
 
 
-#asm1= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ASM_I_Full_Link_Report_'+da1+'.csv',skiprows=5)
-#bih1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/BIH_I_Full_Link_Report_'+da1+'.csv',skiprows=5)
-rob1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ROB_Full_Link_Report_'+da1+'.csv',skiprows=5,encoding= 'unicode_escape')
-kar1= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/KAR_Full_Link_Report_'+da1+'.csv',skiprows=5)
-#odi1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ODI_Full_Link_Report_'+do1+'.csv',skiprows=5)
-upe1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/UPE_Full_Link_Report_'+da1+'.csv',skiprows=5,encoding= 'unicode_escape')
+#asm1= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ASM_I_Report_'+da1+'.csv',skiprows=5)
+#bih1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/BIH_I_Report_'+da1+'.csv',skiprows=5)
+rob1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ROB_Report_'+da1+'.csv',skiprows=5,encoding= 'unicode_escape')
+kar1= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/KAR_Report_'+da1+'.csv',skiprows=5)
+#odi1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ODI_Report_'+do1+'.csv',skiprows=5)
+upe1 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/UPE_Report_'+da1+'.csv',skiprows=5,encoding= 'unicode_escape')
 
 
 
 print("3rd Day Reading Start")
 
 
-#asm2= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ASM_I_Full_Link_Report_'+da2+'.csv',skiprows=5)
-#bih2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/BIH_I_Full_Link_Report_'+da2+'.csv',skiprows=5)
-rob2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ROB_Full_Link_Report_'+da2+'.csv',skiprows=5,encoding= 'unicode_escape')
-kar2= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/KAR_Full_Link_Report_'+da2+'.csv',skiprows=5)
-#odi2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ODI_Full_Link_Report_'+do2+'.csv',skiprows=5)
-upe2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/UPE_Full_Link_Report_'+da2+'.csv',skiprows=5,encoding= 'unicode_escape')
+#asm2= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ASM_I_Report_'+da2+'.csv',skiprows=5)
+#bih2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/BIH_I_Report_'+da2+'.csv',skiprows=5)
+rob2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ROB_Report_'+da2+'.csv',skiprows=5,encoding= 'unicode_escape')
+kar2= pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/KAR_Report_'+da2+'.csv',skiprows=5)
+#odi2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/ODI_Report_'+do2+'.csv',skiprows=5)
+upe2 = pd.read_csv(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\RAW\CERAGON/UPE_Report_'+da2+'.csv',skiprows=5,encoding= 'unicode_escape')
 
 
 print("Reading Done")
@@ -584,16 +584,16 @@ print("Login Cobra")
 ssh3=paramiko.SSHClient()
 ssh3.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 try:
-    ssh3.connect(hostname='10.115.1.57',username='Cobra',password='Cobra@123',port=22)
+    ssh3.connect(hostname='12.12.12.12',username='admin',password='admin',port=22)
 except:
     pass
 try:
-    ssh3.connect(hostname='10.19.62.229',username='Cobra',password='Cobra@123',port=22)
+    ssh3.connect(hostname='13.13.13.13',username='root',password='root',port=22)
 except:
     pass
 sftp_client1=ssh3.open_sftp()
 
-sftp_client1.chdir('/opt/MyLog/TX/Modulation_report')
+sftp_client1.chdir('/opt/Modulation_report')
 
 sftp_client1.put(r'C:\Users\COR1736664\Desktop\Deepak\ALL CODE\Ceragon Audit Report\Output\TXN_Cera_PAN-INDIA_Ceragon_MW_Audit_Report_'+dm1+'_MONTHLY.xlsx', 'TXN_Cera_PAN-INDIA_Ceragon_MW_Audit_Report_'+dm1+'_MONTHLY.xlsx')
 
